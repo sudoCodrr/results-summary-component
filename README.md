@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sudocodrr.github.io/results-summary-component/)
-- Live Site URL: [Add live site URL here](https://sudocodrr.github.io/results-summary-component/)
+- Solution URL: [gitHub Repo](https://sudocodrr.github.io/results-summary-component/)
+- Live Site URL: [live site](https://sudocodrr.github.io/results-summary-component/)
 
 ## My process
 
